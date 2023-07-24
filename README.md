@@ -9,12 +9,12 @@ i) Question (Intent) Classifier For Multi-Category Question Set
 _Description_ : An intent classification Machine Learning project is developed to accurately categorize the underlying purpose of a given question. Multiple models are utilized in an effort to achieve the highest possible accuracy.
 
 ii) Computer Vision Projects: 
-_Description_ : Various Computer Vision Projects done by using OpenCV and other libraries.
+_Description_ : Various Computer Vision Projects done by using OpenCV and other libraries. (On Google Drive)
 
 ## Big Data Project
 Unlocking  Valuable  Insights:  Leveraging  AWS  Services  for  E-commerce  Analytics  and  Big Data Processing 
 
-_Description_ : We  analyzed  a  multicategory  e-commerce  store  using  big  data  techniques  on  a  Kaggle dataset.  With  the  help  of  AWS  EC2,  AWS  S3,  PySpark,  AWS  Glue  ETL,  AWS  Athena,  AWS CloudFormation,  AWS  Lambda  and  Power  BI,  we  were  able  to  process  and  analyze  the  data  to identify  trends  and  patterns  that  would  have  been  difficult  to  discover  with  traditional  methods.  Our analysis  yielded  valuable  insights  into  customer  behaviour  and  preferences,  which  can  be  used  by  the  ecommerce  store  to improve  their  business strategies and enhance  customer  satisfaction. 
+_Description_ : Analyzed  a  multicategory  e-commerce  store  using  big  data  techniques  on  a  Kaggle dataset.  With  the  help  of  AWS  EC2,  AWS  S3,  PySpark,  AWS  Glue  ETL,  AWS  Athena,  AWS CloudFormation,  AWS  Lambda  and  Power  BI,  I was  able  to  process  and  analyze  the  data  to identify  trends  and  patterns  that  would  have  been  difficult  to  discover  with  traditional  methods.  The analysis  yielded  valuable  insights  into  customer  behaviour  and  preferences,  which  can  be  used  by  the  ecommerce  store  to improve  their  business strategies and enhance  customer  satisfaction. 
 
 Kaggle Dataset Used: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
