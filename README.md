@@ -9,7 +9,11 @@ i) Question (Intent) Classifier For Multi-Category Question Set
 
 _Description_ : An intent classification Machine Learning project is developed to accurately categorize the underlying purpose of a given question. Multiple models are utilized in an effort to achieve the highest possible accuracy.
 
-ii) Computer Vision Projects: 
+ii) Air Quality Classification for Indian Cities with ANOVA and SVM
+
+_Description_: Code performs a data analysis and machine learning pipeline to build a predictive model for classifying the Air Quality Index (AQI) category of different cities using ANOVA and SVM.
+
+iii) Computer Vision Projects: 
 
 _Description_ : Various Computer Vision Projects done by using OpenCV and other libraries. (On Google Drive)
 
